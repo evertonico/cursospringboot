@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8dfc71-7f53-4ba8-804c-82348b0b21f6" name="Default Changelist" comment="" />
+    <list default="true" id="1f8dfc71-7f53-4ba8-804c-82348b0b21f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/everton/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everton/AnimalConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/everton/Development.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/everton/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/everton/MinhaConfiguration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -113,5 +121,9 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="390" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1586560130256" />
+    <state x="881" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1586912156346">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="881" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1586912156346" />
   </component>
 </project>
